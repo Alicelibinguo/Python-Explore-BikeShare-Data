@@ -13,6 +13,7 @@ Table of Contents includes:
 4. Exploratory Data Analysis 
 
       4.1 Statistics
+      
       4.2 Visualizations
 5. Performing Your Own Analysis
 6. Conclusions
