@@ -1,4 +1,5 @@
 # Python-Explore-BikeShare-Data
+Author: Libin Guo
 
 2016 US Bike Share Activity Snapshot
 Project Summary
